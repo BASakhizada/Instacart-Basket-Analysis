@@ -15,22 +15,16 @@ This project uses open-source datasets provided by Instacart. The data includes 
 
 ## Tools and Libraries
 The analysis and visualizations are implemented in Python, using the following libraries:
-
-Pandas for data manipulation and cleaning.
-NumPy for numerical operations.
-Matplotlib and Seaborn for data visualization.
-SciPy for statistical analysis.
-Jupyter Notebook for code development and presentation.
+- Pandas for data manipulation and cleaning.
+- NumPy for numerical operations.
+- Matplotlib and Seaborn for data visualization.
+- SciPy for statistical analysis.
+- Jupyter Notebook for code development and presentation.
 
 ## Key Steps
-### Data Cleaning: 
-Ensured consistency by fixing missing values, handling duplicates, and converting data types.
-### Exploratory Data Analysis: 
-Explored customer behavior across multiple dimensions, such as time of purchase, order value, and product preferences.
-### Data Visualization: 
-Created visualizations to identify key trends and patterns, such as busiest order times, popular product categories, and customer loyalty metrics.
-### Customer Segmentation: 
-Derived new columns and customer groupings based on loyalty status, region, and ordering frequency.
-### Insights and Recommendations: 
-Provided actionable insights for Instacart’s marketing and sales teams to improve targeted advertising.
+1. Data Cleaning: Ensured consistency by fixing missing values, handling duplicates, and converting data types.
+2. Exploratory Data Analysis: Explored customer behavior across multiple dimensions, such as time of purchase, order value, and product preferences.
+3. Data Visualization: Created visualizations to identify key trends and patterns, such as busiest order times, popular product categories, and customer loyalty metrics.
+4. Customer Segmentation: Derived new columns and customer groupings based on loyalty status, region, and ordering frequency.
+5. Insights and Recommendations: Provided actionable insights for Instacart’s marketing and sales teams to improve targeted advertising.
 
